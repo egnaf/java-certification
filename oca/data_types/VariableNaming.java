@@ -2,6 +2,7 @@ package data_types;
 
 public class VariableNaming {
 
+    @SuppressWarnings({"unused", "NonAsciiCharacters"})
     public static void main(String[] args) {
 
         /*
@@ -16,6 +17,7 @@ public class VariableNaming {
         */
         String name1;
         String first_name;
-        String $last_$name;
+        String last_$$_name;
+        String имя_фамилия; // Non Ascii Characters also allowed
     }
 }
