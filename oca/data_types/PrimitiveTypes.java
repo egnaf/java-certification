@@ -19,7 +19,7 @@ public class PrimitiveTypes {
          *
          * 2^8 = 256
          */
-        byte bin = 0b1111111; // 127
+        byte byteNumber = 0;
 
         /* -------------------------------------------------------------------------------
          * 16 bits
@@ -27,9 +27,9 @@ public class PrimitiveTypes {
          *
          * 2^16 = 65 535
          */
+        char unicode    = '\u0000';
         char character  = 's';
         char symbol     = '$';
-        char unicode    = '\u0027'; // '
         char newLine    = '\n';
 
         /*
@@ -50,7 +50,7 @@ public class PrimitiveTypes {
          *
          * 2^16 = 65 535
          */
-        short shortNumber;
+        short shortNumber = 0;
 
         /* -------------------------------------------------------------------------------
          * 32 bits
