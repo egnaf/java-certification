@@ -29,10 +29,12 @@ public class PrimitiveTypes {
          */
         char character  = 's';
         char symbol     = '$';
-        char unicode    = '\u0001';
-        char newLine    = '\b';
+        char unicode    = '\u0027';
+        System.out.println("\u0027");
+        char newLine    = '\n';
 
         /*
+            Other system characters:
             \b backspace
             \t tab
             \n linefeed

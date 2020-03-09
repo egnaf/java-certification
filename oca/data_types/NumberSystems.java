@@ -5,8 +5,7 @@ public class NumberSystems {
     @SuppressWarnings({"OctalInteger", "unused"})
     public static void main(String[] args) {
 
-        /*
-         * -------------------------------------------------------------------------------
+        /* -------------------------------------------------------------------------------
          * Only 4 number systems: binary, octal, decimal, hexadecimal.
          */
         int binary  = 0b1;  // only numbers 0 or 1
