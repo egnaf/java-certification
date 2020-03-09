@@ -2,6 +2,7 @@ package data_types;
 
 public class WideningAndNarrowing {
 
+    @SuppressWarnings({"unused", "UnusedAssignment"})
     public static void main(String[] args) {
 
         /* -------------------------------------------------------------------------------

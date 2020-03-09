@@ -2,6 +2,7 @@ package data_types;
 
 public class Casting {
 
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
 
         /* -------------------------------------------------------------------------------

@@ -4,7 +4,7 @@ public class InitializingVariables {
 
     static String var = "It's a static variable.";
 
-    @SuppressWarnings({"unused", "ConstantConditions"})
+    @SuppressWarnings({"unused", "ConstantConditions", "UnusedAssignment"})
     public static void main(String[] args) {
 
         /* -------------------------------------------------------------------------------
