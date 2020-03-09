@@ -29,8 +29,7 @@ public class PrimitiveTypes {
          */
         char character  = 's';
         char symbol     = '$';
-        char unicode    = '\u0027';
-        System.out.println("\u0027");
+        char unicode    = '\u0027'; // '
         char newLine    = '\n';
 
         /*
