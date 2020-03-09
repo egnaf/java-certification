@@ -6,7 +6,8 @@ public class NumberSystems {
     public static void main(String[] args) {
 
         /*
-            1. Only 4 number systems: binary, octal, decimal, hexadecimal.
+         * -------------------------------------------------------------------------------
+         * Only 4 number systems: binary, octal, decimal, hexadecimal.
          */
         int binary  = 0b1;  // only numbers 0 or 1
         int octal   = 017;  // only numbers from 0 to 7, no 8 or 9
