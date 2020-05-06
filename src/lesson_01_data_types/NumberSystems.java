@@ -1,4 +1,4 @@
-package data_types;
+package lesson_01_data_types;
 
 public class NumberSystems {
 
