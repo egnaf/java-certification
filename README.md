@@ -1,6 +1,13 @@
 # java-certification
 
-## Programmer I
+## Java SE 11 Programmer I
+| Exam detail | Value |
+|---|---|
+| More | [Web page](https://education.oracle.com/java-se-11-programmer-i/pexam_1Z0-815) |
+| Exam number | 1Z0-815 |
+| Duration | 180 Minutes |
+| Number of Questions | 80 |
+| Passing Score | 63 % |
 
 ### 1. Understanding Java Technology and environment
 - Describe Java Technology and the Java development
