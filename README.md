@@ -1,5 +1,19 @@
 # java-certification
 
+Install Openk JDK 11 for Mac OS.
+```
+$ brew tap adoptopenjdk/openjdk
+$ brew cask install adoptopenjdk11
+```
+
+Check the version of java.
+```
+$ java -version
+java version "11.0.2" 2019-01-15 LTS
+Java(TM) SE Runtime Environment 18.9 (build 11.0.2+9-LTS)
+Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.2+9-LTS, mixed mode)
+```
+
 ## Java SE 11 Programmer I
 | Exam detail | Value |
 |---|---|
